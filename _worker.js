@@ -7,7 +7,6 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'www.who.int:8880#优选官方线路',
-	'cf.sy77.eu.org#我的优选线路',
 	'cloudflare.cfgo.cc#优选官方线路',
 ];	
 
